@@ -1,0 +1,9 @@
+{
+  "pid": 42068,
+  "startedAt": 1777902686134,
+  "command": "dev",
+  "cwd": "G:/trae/waiweb",
+  "port": 3000,
+  "hostname": "::1",
+  "url": "http://[::1]:3000"
+}
