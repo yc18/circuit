@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Professional Circuit Design Source Files Store",
+    "subtitle": "High-quality circuit schematics and PCB design files to accelerate your electronics projects",
+    "contactTitle": "To purchase or customize circuit source files",
+    "contactSubtitle": "Please send an email directly, and I will send the design files to you via email",
+    "browseProducts": "Browse Products",
+    "learnMore": "Learn More"
+  },
+  "product": {
+    "title": "Products",
+    "subtitle": "Premium circuit design source files, ready to use",
+    "price": "Price",
+    "contactForPrice": "Contact for Price",
+    "formats": "Supported Formats",
+    "getSource": "Get Source Files",
+    "details": "Product Details",
+    "specifications": "Technical Specifications",
+    "fileFormats": "File Formats",
+    "includes": "What's Included"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Professional Electronics Design Services"
+  },
+  "footer": {
+    "contact": "Contact",
+    "copyright": "Copyright",
+    "allRights": "All Rights Reserved",
+    "disclaimer": "Disclaimer",
+    "privacy": "Privacy Policy"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "back": "Back",
+    "email": "Email"
+  },
+  "seo": {
+    "homeTitle": "Circuit Schematic Source Files | PCB Design Layout | Schematic Download",
+    "homeDescription": "Professional circuit schematic source files and PCB design layout services. Support Altium Designer, Eagle, KiCad formats. Get high-quality electronics design files instantly.",
+    "productsTitle": "Circuit Design Source Files Product List | PCB Layout Files",
+    "productsDescription": "Browse our circuit design source files including STM32, Arduino, power modules and more electronics design files.",
+    "aboutTitle": "About Us - Professional Circuit Design Services",
+    "aboutDescription": "Learn about our professional background and industry experience in providing high-quality circuit design source files.",
+    "productKeywords": "circuit schematic source files, PCB design layout, schematic download, PCB layout files, Altium Designer, Eagle, KiCad"
+  }
+}

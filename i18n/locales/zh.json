@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "home": "首页",
+    "products": "产品中心",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "专业电路设计源文件商店",
+    "subtitle": "提供高质量的电路原理图和PCB设计文件，助力您的电子项目开发",
+    "contactTitle": "如需购买或定制电路源文件",
+    "contactSubtitle": "请直接发送邮件，我将通过邮箱发送设计源文件给您",
+    "browseProducts": "浏览产品",
+    "learnMore": "了解更多"
+  },
+  "product": {
+    "title": "产品中心",
+    "subtitle": "精选电路设计源文件，即买即用",
+    "price": "价格",
+    "contactForPrice": "联系询价",
+    "formats": "支持格式",
+    "getSource": "获取源文件",
+    "details": "产品详情",
+    "specifications": "技术规格",
+    "fileFormats": "文件格式",
+    "includes": "包含内容"
+  },
+  "about": {
+    "title": "关于我们",
+    "subtitle": "专业电子设计服务商"
+  },
+  "footer": {
+    "contact": "联系方式",
+    "copyright": "版权所有",
+    "allRights": "保留所有权利",
+    "disclaimer": "免责声明",
+    "privacy": "隐私政策"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出错了",
+    "retry": "重试",
+    "back": "返回",
+    "email": "电子邮件"
+  },
+  "seo": {
+    "homeTitle": "电路原理图源文件 | PCB设计图购买 | Schematic Download",
+    "homeDescription": "专业提供电路原理图源文件、PCB设计图购买服务。支持Altium Designer、Eagle、KiCad等格式下载。快速获取高质量电子设计文件。",
+    "productsTitle": "电路设计源文件产品列表 | PCB Layout Files",
+    "productsDescription": "浏览我们的电路设计源文件产品列表，包括STM32、Arduino、电源模块等各类电子设计文件。",
+    "aboutTitle": "关于我们 - 专业电路设计服务商",
+    "aboutDescription": "了解我们的专业背景和行业经验，为您提供高质量的电路设计源文件服务。",
+    "productKeywords": "电路原理图源文件, PCB设计图购买, schematic download, PCB layout files, Altium Designer, Eagle, KiCad"
+  }
+}
