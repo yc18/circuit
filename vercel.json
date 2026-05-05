@@ -2,6 +2,6 @@
   "buildCommand": "npm run build",
   "outputDirectory": ".output/public",
   "installCommand": "npm install",
-  "framework": "nuxt",
+  "framework": "nuxtjs",
   "regions": ["sin1"]
 }
