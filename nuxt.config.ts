@@ -22,6 +22,9 @@ export default defineNuxtConfig({
           'data-cfasync': 'false',
           async: true,
         },
+        {
+          innerHTML: "(function(s){s.dataset.zone='10980106',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))",
+        },
       ],
     },
   },
