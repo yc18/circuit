@@ -16,6 +16,13 @@ export default defineNuxtConfig({
       link: [
         { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
       ],
+      script: [
+        {
+          src: 'https://5gvci.com/act/files/tag.min.js?z=10979410',
+          'data-cfasync': 'false',
+          async: true,
+        },
+      ],
     },
   },
 
